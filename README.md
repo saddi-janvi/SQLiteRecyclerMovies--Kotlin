@@ -4,16 +4,10 @@
 This Android app allows users to manage a local movie SQLite database, display movie information through a RecyclerView, and download movie images from the internet.
 
 ## Table of Contents
-1. [SQLite Database Setup](#sqlite-database-setup)
-2. [RecyclerView Modification](#recyclerview-modification)
-3. [Database Management](#database-management)
-4. [Movie Image Loading](#movie-image-loading)
-5. [Demo and Testing](#demo-and-testing)
-6. [README for GitHub](#readme-for-github)
-
----
-
-## 1. SQLite Database Setup
+1. [RecyclerView Modification](#recyclerview-modification)
+2. [Database Management](#database-management)
+3. [Movie Image Loading](#movie-image-loading)
+4. [Demo and Testing](#demo-and-testing)
 
 ### Task 1
 Create a helper class extending `SQLiteOpenHelper` to manage the local movie SQLite database. The class should handle the creation, loading, and management of the database.
